@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TailwindResponsiveProject1/static/css/main.98ed9584.css",
+    "main.js": "/TailwindResponsiveProject1/static/js/main.fe837440.js",
+    "static/media/laptop.jpg": "/TailwindResponsiveProject1/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/TailwindResponsiveProject1/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/TailwindResponsiveProject1/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/TailwindResponsiveProject1/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/TailwindResponsiveProject1/index.html",
+    "main.98ed9584.css.map": "/TailwindResponsiveProject1/static/css/main.98ed9584.css.map",
+    "main.fe837440.js.map": "/TailwindResponsiveProject1/static/js/main.fe837440.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ed9584.css",
+    "static/js/main.fe837440.js"
+  ]
+}
